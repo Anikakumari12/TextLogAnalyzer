@@ -1,0 +1,5 @@
+Error: Unable to connect to database
+Warning: Connection is slow
+Error: Timeout while connecting
+Info: User logged in
+Error: Unable to connect to database
