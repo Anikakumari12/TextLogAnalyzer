@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📘 README.md
 
 🧐Text Log Analyzer
@@ -73,3 +74,7 @@ No external packages needed
 👤 Author
 Anika Kumari
 Data Engineer | Python Developer | Big Data Enthusiast
+
+
+This is my local README text.
+This is the text from GitHub.
